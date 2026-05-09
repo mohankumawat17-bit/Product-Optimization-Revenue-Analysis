@@ -27,3 +27,6 @@ This project analyzes coffee shop transaction data to identify top-performing pr
 
 2. Run the app:
    python -m streamlit run app.py
+
+## Live Dashboard Link:
+<https://mohankumawat17-bit-product-optimization-revenue-anal-app-l86tlz.streamlit.app/>
